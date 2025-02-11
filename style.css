@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana  sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #CD5C5C;
+    color: #fffff0;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fffff0;
+    text-decoration: none;
+  text-decoration-color: #fffff0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #CD5C5C;
+    color: #fffff0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
